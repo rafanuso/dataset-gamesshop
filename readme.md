@@ -11,24 +11,47 @@ Não tenho acesso ao excel, não pude fazer as analises, e estou entregando o de
 - [ ] Quais são os produtos mais populares em cada país
 - [ ] Como otimizar o processo de transporte e logística até o momento da venda
 
-Colunas presentes na planilha:
-product_sold: Nome do console vendido
-date: Data da venda
-quantity: Quantidade vendida
-unit_price: Preço unitário do console
-total_price: Valor total da venda
-currency: Moeda utilizada na transação (EUR, GBP, USD, etc.)
-site: Plataforma onde a venda ocorreu (Etsy, Shopee, etc.)
-discount_coupon: Código do cupom de desconto utilizado
-discount_value: Valor do desconto aplicado
-buyer_birth_date: Data de nascimento do comprador
-buyer_name: Nome do comprador
-delivery_country: País de entrega
-invoice_id: ID da fatura
-Agora, me diga quais insights você quer extrair primeiro. Algumas opções podem ser:
+1️⃣ Produtos mais vendidos por país
+Vou calcular a quantidade total de cada console vendido em cada país.
 
-Produtos mais vendidos por país
-Faturamento total por país ou por plataforma
-Impacto dos cupons de desconto nas vendas
-Perfil dos compradores (faixa etária, localização, etc.)
-Otimização logística (mapeamento de vendas por região).
+1️⃣ Produtos mais vendidos por país
+Aqui estão os produtos mais vendidos em alguns países:
+
+Austrália
+
+🥇 MEGANIUM RG353M – 10 unidades
+🥈 NEW MEGANIUM RG28XX – 5 unidades
+🥉 NEW MEGANIUM RG35XX – 5 unidades
+Canadá
+
+🥇 NEW MEGANIUM RG 40XXV – 11 unidades
+🥈 NEW MEGANIUM RG35XX – 5 unidades
+🥉 NEW MEGANIUM RG28XX – 4 unidades
+França
+
+🥇 NEW MEGANIUM RG35XX – 7 unidades
+Se quiser um relatório completo ou um gráfico visual, me avise! Agora, vou seguir para o faturamento total por país e plataforma. 🚀 ​​
+
+2️⃣ Faturamento total por país e plataforma
+Aqui estão os valores de faturamento por país e plataforma:
+
+Austrália
+
+💰 Shopee: $910
+💰 Etsy: $650
+💰 AliExpress: $440
+Canadá
+
+💰 Etsy: $1.240
+💰 Shopee: $870
+💰 AliExpress: $180
+França
+
+💰 Etsy: $440
+💰 Shopee: $360
+💰 AliExpress: $210
+Alemanha
+
+💰 AliExpress: $670
+
+
